@@ -12,6 +12,15 @@ import Footer from "../component/footer.jsx"
 const Home = () => {
 	return (<div>
 		<Navbar/>
+		<div><Jumbotron/>
+		<ul className="card-deck d-flex container my-5">
+			<Card/>
+			<Card/>
+			<Card/>
+			<Card/>
+		</ul>
+		</div>
+		<Footer/>
 		
 		
 	</div> 	
