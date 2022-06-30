@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const Jumbotron = () =>{
+const Jumbotron = (props) =>{
 	return (
         <div className="jumbotron">
             <div class="container bg-light pb-5">
