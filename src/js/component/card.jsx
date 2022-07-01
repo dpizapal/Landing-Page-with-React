@@ -3,7 +3,7 @@ import React from "react";
 const Card = (props) =>{
 	return (
     <div className="px-3 pt-5 mt-5 ">        
-    <div className="card " style={{width: "18rem"}}>
+    <div className="card " style={{width: "14em"}}>
         <img src="http://via.placeholder.com/500x325/" className="card-img-top" alt="..."/>
             <div className="card-body text-center">
                 <h5 className="card-title">Card title</h5>
